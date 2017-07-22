@@ -1,6 +1,6 @@
 {
 	"PageTitle": "¿mavo?",
 	"parrafo": [
-		" [Mavo](http://mavo.io) es el último proyecto de, quizás la desarrolladora web que más admiro, [Lea Verou](http://lea.verou.me). Permite la edición de las páginas web directamente en el navegador sin necesidad de conocer nada de lenguajes de programación.  Quizás por ser un proyecto aún en desarrollo, en Firefox me está dando bastantes problemas, mientras que en Safari responde mucho mejor. En concreto, un caso problemático son los plugins. El markdown funciona correctamente en Safari y sin embargo en Firefox se ve en todo momento el código."
+		" [Mavo](http://mavo.io) es el último proyecto de, quizás, la desarrolladora web que más admiro, [Lea Verou](http://lea.verou.me). Permite la edición de las páginas web directamente en el navegador sin necesidad de conocer nada de lenguajes de programación.  Quizás por ser un proyecto aún en desarrollo, en Firefox me está dando bastantes problemas, mientras que en Safari responde mucho mejor. En concreto, un caso problemático son los plugins. El markdown funciona correctamente en Safari y sin embargo en Firefox se ve en todo momento el código."
 	]
 }
